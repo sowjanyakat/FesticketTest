@@ -27,4 +27,4 @@ During the test I have faced some of the challenges like handling of dynamic web
 If I had more time I will create test base class to intialise webdriver,rather than extends Driver class in every class.
 I have gone through some of the reusable methods,so put those methods seperately and called whenever needed.
 I could do better if  I have good time for this test like take the screen shots and better framework structure.
-I have used Junit for asserts the page title and make sure that in right path regarding this test
+I have used Junit for asserting to make sure that I am on right path regarding the application and for executing.
